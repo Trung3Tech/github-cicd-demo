@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Todo app demo for CI/CD with GitHub Actions and GitHub Pages",
   "engines": {
-    "node": ">=22"
+    "node": ">=24"
   },
   "scripts": {
     "dev": "vite",

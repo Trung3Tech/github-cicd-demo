@@ -90,7 +90,7 @@ Push tag v*.*.*  →  Release (lint, test, build, zip) → GitHub Releases
 | Tài khoản GitHub                                     | Đăng nhập được github.com    | https://github.com/signup         |
 | GitHub Student Developer Pack (khuyến nghị)          | Trang Education báo đã duyệt | https://education.github.com/pack |
 | Git                                                  | `git --version`              | https://git-scm.com/downloads     |
-| Node.js 22 LTS trở lên                               | `node -v`                    | https://nodejs.org                |
+| Node.js 24 LTS trở lên                               | `node -v`                    | https://nodejs.org                |
 | VS Code                                              | Mở được thư mục dự án        | https://code.visualstudio.com     |
 | Extension ESLint, Prettier cho VS Code (khuyến nghị) | Thấy lỗi gạch đỏ khi gõ      | Marketplace trong VS Code         |
 
